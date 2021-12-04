@@ -8,5 +8,4 @@ categories: test
 
 Hello World2
 
-![cat](../images/2021-01-13-first-posting/cat.jpg)
-
+![dog](../images/2021-01-13-first-posting/dog.jpg)
