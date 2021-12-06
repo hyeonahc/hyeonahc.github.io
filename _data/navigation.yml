@@ -1,7 +1,7 @@
 # main links
-main:
-  - title: "Search"
-    url: /search/
+# main:
+#   - title: "Search"
+#     url: /search/
 
 docs:
   - title: "Menu"
