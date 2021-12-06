@@ -3,6 +3,7 @@ layout: single
 title: "This is my first post"
 categories: test
 tags: [test, test2]
+toc: true
 ---
 
 # Title
