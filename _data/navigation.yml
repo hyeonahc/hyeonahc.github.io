@@ -1,7 +1,21 @@
 # main links
 main:
-  - title: "Category"
-    url: /categories/
+  - title: "Search"
+    url: /search/
+
+docs:
+  - title: "Menu"
+    children:
+      - title: "CSS"
+        url: /categories/#css
+      - title: "JavaScript"
+        url: /categories/#javascript
+      - title: "React"
+        url: /categories/#react
+      - title: "Git"
+        url: /categories/#git
+      - title: "Other"
+        url: /categories/#other
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
