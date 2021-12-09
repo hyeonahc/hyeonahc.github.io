@@ -16,9 +16,9 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "My Dev Notes"
+title: "hyeonah.blog();"
 title_separator: "|"
-subtitle: "Hello : )"
+# subtitle: "Hello : )"
 name: "Hyeonah"
 description: "Front End Developer"
 url: "https://hyeonahc.github.io"
